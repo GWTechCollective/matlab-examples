@@ -2,3 +2,6 @@
 *.jpg
 *.png
 *.gif
+
+# Ignore matlab asv files
+*.asv
